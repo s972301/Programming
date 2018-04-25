@@ -2,93 +2,99 @@
 2018 spring course
 
 ## Introduce Myself
-*Hello~ My name is 郭芛宏 ( Wei-Hong Guo ).
+Hello~ My name is 郭芛宏 ( Wei-Hong Guo ).
 This repository is for 進階軟體課程
 
-## Progress Report
----
+## Task
+
 ### week_1
 
+ 
 * In class
+	- Create respository & week_1 folder 
 
-  
 * At home
-
-  
-* week_1 notebook
-
+	- Practice basic data operation using python
+	  
+      [week_1_first_meet](https://github.com/s972301/Programming/blob/master/week_1/week_1_first_meet.ipynb)
+	
 ---
   
 ### week_2
 
 * In class
-
+	* Try website crawler examples
  
 * At home
+	* Make an website crawler
+	
+    	[蝦皮與Google trend爬蟲練習](https://github.com/s972301/Programming/blob/master/week_2/parser_practice.ipynb)
 
-* week_2 notebook
 
   ---
   
 ### week_3
-* Before class
-  1. Read class ptt
   
 * In class
-  1. Week_2 sharing 
-  2. co-coding : github ssh key attach to my account / github api
-  3. Learning data visualization (follow [ploty library](https://plot.ly/ggplot2/#basic-charts))
-
 * At home
-  1. Learn how to us ggplot2
-  2. Draw the map of Hotspot in Taipei
-  3. Use R leaflet to draw the Ubike information map (click the marker to show the name and available bikes)
-  
-* week_3 notebook
+	* Complete data visualization task
+	
+    	[91APP資料視覺化](https://github.com/s972301/Programming/blob/master/week_3/91data_visualization.ipynb)
 
 
   ---
   
 ### week_4
 * In class
-  1. Learn Facebook api, token, and how to grab information from other's fan's page.
+  * Learn Facebook api, token, and how to grab information from other's fan's page.
+  * Wordcloud practice.
+  	
+    [練習](https://github.com/s972301/Programming/blob/master/week_4/Untitled.ipynb)
  
 * At home
-  1. Finish homework about facebook api
-  2. Learn how to draw word cloud
-  3. Finish analyzing 朱立倫's post when he was running presidency.
-  4. Finish homework
+  * Complete a wordcloud
   
-* week_4 notebook
+  	[新北市長候選人](https://github.com/s972301/Programming/blob/master/week_4/candidate_wordcloud.ipynb)
+  
+
 
 
 ---
 ### week_5
 * In class
-  1. Learn basic TFID skill
+  * Learn basic TFIDF skill
   
 * At home
-  1. Finish homework about TFID
-  2. Using harry potter novel as example to practice text mining (teacher's reference link)
-  
-* week_5 notebook
+	* Do a TFIDF analysis
+		
+        [總統就職講稿](https://github.com/s972301/Programming/blob/master/week_5/Tf_Idf.ipynb)
 
 
 ---
-## week_6: Project_1
+### Project_1
+
+* Use TFIDF & data visualizatin skill to do textual analysis
+
+	[金庸小說的文本分析](https://github.com/s972301/Programming/blob/master/project/project_1.ipynb)
+
+
+---
+### week_6
 
 
 
 
 ---
-## week_7
+### week_7
 * In class
-  1. Share my projects
-  2. Discuss final group project
+
   
 * At home
-  1. Learn basic R package
-  2. Make a simple square package
-  
+
 ---
-## week_8
+### week_8
+
+* In class
+
+  
+* At home
