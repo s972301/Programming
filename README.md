@@ -79,22 +79,16 @@ This repository is for 進階軟體課程
 
 
 ---
-### week_6
-
-
+### Project_2
+* Do prediction of Titanic dataset
 
 
 ---
-### week_7
-* In class
-
-  
-* At home
-
+### Project_3
+* Do regression & ANOVA of the dataset
 ---
-### week_8
-
-* In class
-
-  
-* At home
+### Project_4
+* Do Apriori analysis of 91APP data
+---
+### Project_5
+* Make a simple neural network learning
