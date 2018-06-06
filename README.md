@@ -87,15 +87,18 @@ This repository is for 進階軟體課程
 ---
 ### Project_3
 * Do regression & ANOVA of the dataset
+
 	[空汙資料分析](https://github.com/s972301/Programming/blob/master/week_9/airPollution.ipynb)
 
 ---
 ### Project_4
 * Do Apriori analysis of 91APP data
+
 	[91APP資料分析](https://github.com/s972301/Programming/blob/master/week_10/91APP_apriori.ipynb)
 
 ---
 ### Project_5
 * Make a simple neural network learning
+
 	[](https://github.com/s972301/Programming/blob/master/week_2/parser_practice.ipynb)
 
