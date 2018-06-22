@@ -100,5 +100,5 @@ This repository is for 進階軟體課程
 ### Project_5
 * Make a simple neural network learning
 
-	[](https://github.com/s972301/Programming/blob/master/week_2/parser_practice.ipynb)
+	[TitanicDNN](https://github.com/s972301/Programming/blob/master/week_11/TitanicDNN.ipynb)
 
